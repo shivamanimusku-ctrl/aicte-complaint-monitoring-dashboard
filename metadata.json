@@ -1,0 +1,8 @@
+{
+  "name": "Remix AICTE Integrated Institution Complaint Monitoring \u0026 Status Dashboard",
+  "description": "Enterprise complaint monitoring, cross-bureau overlap intelligence, coordination workspace, SLA tracking, and 360-degree institution profiling for AICTE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
